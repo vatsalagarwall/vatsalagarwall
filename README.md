@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
+- 📝 One of my recent projects is [A chatting app](https://chitchat12.netlify.app/)
+
 - 👨‍💻 All of my projects are available at [https://vatsalagarwal30.netlify.app/](https://vatsalagarwal30.netlify.app/)
 
 - 💬 Ask me about **React, NodeJs**
 
 - 📫 How to reach me **bindalvatsaljpr@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1DAoPKtgoUZu0ipcg3P-V_xPj0jNhyhfG/view?usp=sharing](https://drive.google.com/file/d/1DAoPKtgoUZu0ipcg3P-V_xPj0jNhyhfG/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
