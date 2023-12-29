@@ -5,9 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/vatsalagarwalll" target="blank"><img src="https://img.shields.io/twitter/follow/vatsalagarwalll?logo=twitter&style=for-the-badge" alt="vatsalagarwalll" /></a> </p>
 
+- 🔭 I’m currently working on **A blog Application**
+
 - 🌱 I’m currently learning **MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://vatsalagarwal30.netlify.app/](https://vatsalagarwal30.netlify.app/)
+
+- 💬 Ask me about **React, NodeJs**
+
+- 📫 How to reach me **bindalvatsaljpr@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1DAoPKtgoUZu0ipcg3P-V_xPj0jNhyhfG/view?usp=drive_link](https://drive.google.com/file/d/1DAoPKtgoUZu0ipcg3P-V_xPj0jNhyhfG/view?usp=drive_link)
 
