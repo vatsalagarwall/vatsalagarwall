@@ -9,7 +9,7 @@
 
 - 📝 One of my recent projects is [A chatting app](https://chitchat12.netlify.app/)
 
-- 👨‍💻 All of my projects are available at [https://vatsalagarwal30.netlify.app/]([https://vatsalagarwal30.netlify.app/](https://portfolio-vatsal.vercel.app/))
+- 👨‍💻 All of my projects are available at [(https://portfolio-vatsal.vercel.app/)](https://portfolio-vatsal.vercel.app/))
 
 - 💬 Ask me about **React, NodeJs**
 
