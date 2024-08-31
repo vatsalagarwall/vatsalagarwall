@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vatsal Agarwal</h1>
 <h3 align="center">A pre-final year student at VIT, Vellore</h3>
 
-<p align="left"> <a href="https://twitter.com/vatsalagarwalll" target="blank"><img src="https://img.shields.io/twitter/follow/vatsalagarwalll?logo=twitter&style=for-the-badge" alt="vatsalagarwalll" /></a> </p>
+
 
 - 🔭 I’m currently working on **A blog Application**
 
