@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vatsal Agarwal</h1>
-<h3 align="center">A pre-final year student at VIT, Vellore</h3>
+<h3 align="center">Final year student at VIT, Vellore</h3>
 
 
 
