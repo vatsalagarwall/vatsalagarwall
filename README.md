@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 📝 One of my recent projects is [A chatting app](https://chitchat12.netlify.app/)
+- 📝 One of my recent projects is [A expense management app](https://expenzify.vercel.app/)
 
 - 👨‍💻 All of my projects are available at [https://portfolio-vatsal.vercel.app/](https://portfolio-vatsal.vercel.app/)
 
