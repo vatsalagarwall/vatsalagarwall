@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on **A blog Application**
+- 🔭 I’m currently working on **A Fintech Product**
 
 - 🌱 I’m currently learning **MERN Stack**
 
